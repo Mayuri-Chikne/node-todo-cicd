@@ -1,4 +1,3 @@
-//for testing
 // Requiring module
 const assert = require('assert');
 
