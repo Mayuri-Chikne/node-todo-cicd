@@ -1,4 +1,4 @@
-// Requiring module1 
+// Requiring module 
 const assert = require('assert');
  
 // We can group similar tests inside a describe block
